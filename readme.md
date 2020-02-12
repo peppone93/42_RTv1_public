@@ -5,6 +5,8 @@ Every generated image represents a scene, as seen from a specificangle and posit
 and each with its own lightingsystem.
 This project has been realized with another student.
 
+Here is a scene file example: [basic_02.sc](scene_examples/basic_02.sc)
+
 __NOTE:__
 The whole project was realized using the school's graphic library: MinilibX.
 This library contains only basic drawing functions: open a window, lit a pixel and manage events.
