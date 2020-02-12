@@ -10,7 +10,7 @@ Here is a scene file example: [basic_02.sc](scene_examples/basic_02.sc)
 __NOTE:__
 The whole project was realized using the school's graphic library: MinilibX.
 This library contains only basic drawing functions: open a window, lit a pixel and manage events.
-Everything else must be coded by students. (ex. camera model, vector calculations, objects intersections equations...).
+Everything else must be coded by students. (ex. camera model, vector calculations, phong lighting model, objects intersections and normals equations...).
 
 Mandatory functions:
 - At least 4 simple geometric objects as a base (not composed)
